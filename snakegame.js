@@ -344,7 +344,7 @@ window.snake.scheme = function(settings = {}) {
                 this\.${box}\.${containee} = { canvas: boxCanvas, };
               `
             ).replace(
-              '#578A34',
+              '#68ff00',
               settings.borders
             ).replaceAll(
               '#578A34',
