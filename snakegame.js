@@ -8,9 +8,9 @@ window.snake.scheme = function(settings = {}) {
   if(settings.shadows === undefined)
     settings.shadows = '#73ff00';
   if(settings.lightSquares === undefined)
-    settings.lightSquares = '#b3ff1c';
+    settings.lightSquares = '#1a940f';
   if(settings.darkSquares === undefined)
-    settings.darkSquares = '#77ff00';
+    settings.darkSquares = '#005907';
   if(settings.sky === undefined)
     settings.sky = '#ff000d';
   if(settings.separators === undefined)
